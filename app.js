@@ -1,1 +1,5 @@
-
+(
+  function(){
+    console.log("hello");
+  }
+);
